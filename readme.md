@@ -30,7 +30,7 @@ $ rm -rf .git # удалили подпапку .git
 ```
 
 
-##Команда git status выведет:
+## Команда git status выведет:
 
 
 название текущей ветки: On branch master или On branch main;
@@ -55,7 +55,7 @@ $ git status # проверили статус
 Git сообщит, что в папке first-project есть untracked files (от англ. track — «следить», untracked — «неотслеженный», «неотслеживаемый») — ещё не отслеживаемые файлы readme.txt и todo.txt.
 
 
-##Выполнить коммит — git commit
+## Выполнить коммит — git commit
 
 
 Сделать коммит можно командой git commit c ключом -m (от англ. message — «сообщение»), который присваивает коммиту сообщение.
